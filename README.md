@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Nick! 
 
 ## I'm Currently Working on 🧳 
-Indoor Farming w/ [Nebullam](nebullam.com)
+Indoor Farming w/ [Nebullam](https://www.nebullam.com/)
 
 ## I'm Currently Reading 📚 
 I keep my [GoodReads](https://www.goodreads.com/review/list/91653288-nick-herrig?shelf=currently-reading) up to date! 
