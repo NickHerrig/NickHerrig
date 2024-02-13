@@ -1,12 +1,15 @@
 # Hi there 👋 I'm Nick! 
 
 ## I'm Currently Working on 🧳 
-Indoor Farming w/ [Nebullam](https://www.nebullam.com/)
+
+Computer Vision @ [Roboflow](https://roboflow.com/) 🦝 
 
 ## I'm Currently Reading 📚 
+
 I keep my [GoodReads](https://www.goodreads.com/review/list/91653288-nick-herrig?shelf=currently-reading) up to date! 
 
 ## My Skillsets Include 👨‍💻 
+
   - Programming Languages: Python
   - Infastructure as Code: Terraform
   - Config Management: Ansible
@@ -18,12 +21,15 @@ I keep my [GoodReads](https://www.goodreads.com/review/list/91653288-nick-herrig
   - Machine: Macbook Pro
   
 ## I'm Improving At 🧠 
+
 - Programming Languages: Go
 
 ## Ask Me About 🙋‍♂️ 
+
 Company System Architecture and Application Design
 
 ## I Love 💜 
+
 - Coffee
 - Lifting Weights
 - Fishing
@@ -31,8 +37,9 @@ Company System Architecture and Application Design
 - Technology
 
 ## You Can Find Me 🗺 
-- [Twitch](https://www.twitch.tv/nickherrig)
+
 - [Twitter](https://twitter.com/NickHerrig)
 - [Linkedin](https://www.linkedin.com/in/nickherrig/)
 - [Website](https://nickherrig.com/)
 - [Email](mailto:neherrig@gmail.com)
+- - [Twitch](https://www.twitch.tv/nickherrig)
